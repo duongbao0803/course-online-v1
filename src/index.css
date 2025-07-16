@@ -1,0 +1,82 @@
+@import 'tailwindcss';
+
+:root {
+  --color-primary: #00a010;
+  --color-secondary: #dcfce7;
+  --color-thirdly: #bad8b6;
+  --color-light: #ebefd6;
+  --color-red: #cc0000;
+  --color-green: #00a010;
+  --color-superlight: white;
+}
+
+.bg-primary {
+  background-color: var(--color-primary);
+}
+.bg-secondary {
+  background-color: var(--color-secondary);
+}
+.bg-thirdly {
+  background-color: var(--color-thirdly);
+}
+.bg-light {
+  background-color: var(--color-light);
+}
+.bg-red {
+  background-color: var(--color-red);
+}
+.bg-green {
+  background-color: var(--color-green);
+}
+.bg-superlight {
+  background-color: var(--color-superlight);
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+.text-secondary {
+  color: var(--color-secondary);
+}
+.text-thirdly {
+  color: var(--color-thirdly);
+}
+.text-light {
+  color: var(--color-light);
+}
+.text-red {
+  color: var(--color-red);
+}
+.text-green {
+  color: var(--color-green);
+}
+.text-superlight {
+  color: var(--color-superlight);
+}
+
+.border-primary {
+  border-color: var(--color-primary);
+}
+.border-secondary {
+  border-color: var(--color-secondary);
+}
+.border-thirdly {
+  border-color: var(--color-thirdly);
+}
+.border-light {
+  border-color: var(--color-light);
+}
+.border-red {
+  border-color: var(--color-red);
+}
+.border-green {
+  border-color: var(--color-green);
+}
+.border-superlight {
+  border-color: var(--color-superlight);
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #1f2937;
+}
