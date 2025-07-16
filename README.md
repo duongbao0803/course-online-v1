@@ -79,7 +79,7 @@ src/              # Source code
 
 #### References:
 
-- Front-end: https://github.com/duongbao0803/course-online
+- Front-end: https://github.com/duongbao0803/course-online-v1
 
 ##### Contact me via: tonbao0803@gmail.com
 
