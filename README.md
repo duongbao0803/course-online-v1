@@ -74,7 +74,6 @@ src/              # Source code
   routes/         # App routes
   services/       # API services
   helpers/        # Utilities and hooks
-  layouts/        # Layout components
 ```
 
 #### References:
